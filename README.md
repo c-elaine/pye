@@ -6,5 +6,3 @@ With each chapter, the complexity of the problem increased. Working through them
 that the problem can be solved, has aided in strengthening my understanding of the core concepts of Computer Science and Programming. 
 
 The sole purpose of uploading this repository is to have a record of learning progression.
-
--Cherelle 
